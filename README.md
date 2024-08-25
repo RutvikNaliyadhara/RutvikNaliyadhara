@@ -15,4 +15,4 @@ Currently, I'm gaining hands-on experience with Python & Django technology.
 ## Learning Journey :seedling:
 I'm currently focused on mastering Back-End technology and continuously expanding my knowledge in Back-End web app development.
 ## Let's Connect :mailbox:
-Feel free to reach out to me via [Email](mailto:naliyadhararutvik2005@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rutvik-naliyadhara).
+Feel free to reach out to me via [Email](mailto:naliyadhararutvik2005@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rutvik-naliyadhara-59bb412a2).
